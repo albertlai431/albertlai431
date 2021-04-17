@@ -1,8 +1,18 @@
-### Hi there 👋
+## Hi there 👋
+
+I'm a grade 12 student at Pierre Elliott Trudeau HS and an incoming CS 👨‍💻 undergrad! My goal is to create for impact — from a [mobile app](https://github.com/Trudeau-SAC/pethsapp) I built for my high school to a [chatbot](https://omdena.com/projects/ptsd/) that helps PTSD victims around the world find treatment for their condition. I'm experienced in C++, Python (Pytorch/Tensorflow) & Java, and I'm currently learning React & Gatsby! On the side, I enjoying running 🏃‍♂️, playing ultimate, reading, and sitting around contemplating life 🤔
+
+### What I'm Currently Working On
+- Add new features to [pethsapp](https://github.com/Trudeau-SAC/pethsapp) 📱 — including a Chinese localization and calendar notifications
+- Working on a computer vision application for [Neurofit VR](https://neurofit.ca/) 🧠
+- Revamping my personal website with Gatsby
+
+### Contact Me
+
+I love meeting new people! Reach me via email (albertlai631 [at] gmail [dot] com), [LinkedIn](https://www.linkedin.com/in/albertlai631/), or [Instagram](https://www.instagram.com/albert.laiz/). 
+
 
 <!--
-**albertlai431/albertlai431** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
