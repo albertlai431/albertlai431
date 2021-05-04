@@ -4,7 +4,6 @@ I'm a grade 12 student at Pierre Elliott Trudeau HS and an incoming CS 👨‍�
 
 ### What I'm Currently Working On
 - Add new features to [pethsapp](https://www.trudeausac.com/app/) 📱 — including a Chinese localization and calendar notifications
-- Working on a computer vision application for [Neurofit VR](https://neurofit.ca/) 🧠
 - Revamping my personal website with Gatsby
 
 ### Contact Me
