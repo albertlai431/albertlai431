@@ -1,10 +1,10 @@
 ## Hi there 👋
 
-I'm a grade 12 student at Pierre Elliott Trudeau HS and an incoming CS 👨‍💻 undergrad! My goal is to create for impact — from a [mobile app](https://www.trudeausac.com/app/) I built for my high school to a [chatbot](https://omdena.com/projects/ptsd/) that helps PTSD victims around the world find treatment for their condition. I'm experienced in C++, Python (Pytorch/Tensorflow) & Java, and I'm currently learning React & Gatsby! On the side, I enjoying running 🏃‍♂️, playing ultimate, reading, and sitting around contemplating life 🤔
+I'm an incoming CS 👨‍💻 undergrad at UWaterloo! My goal is to create for impact — from a [mobile app](https://www.trudeausac.com/app/) I built for my high school to a [chatbot](https://omdena.com/projects/ptsd/) that helps PTSD victims around the world find treatment for their condition. I'm experienced in C++, Python (Pytorch/Tensorflow) & Java, and I'm currently learning React & Gatsby! On the side, I enjoying running 🏃‍♂️, playing ultimate, reading, and sitting around contemplating life 🤔
 
 ### What I'm Currently Working On
-- Add new features to [pethsapp](https://www.trudeausac.com/app/) 📱 — including a Chinese localization and calendar notifications
-- Revamping my personal website with Gatsby
+- Interning at Tuned 📈
+- Starting dat leetcode grind 😤
 
 ### Contact Me
 
