@@ -4,11 +4,10 @@ I'm an CS undergrad at UWaterloo! My goal is to create for impact — from a [mo
 
 ### What I'm Currently Working On
 - Building a portal for [Sistering](https://sistering.org/) as a part of [UW Blueprint](https://uwblueprint.org/)
-- Innovating in the [Zero Experience](https://concept.uwaterloo.ca/zero/experience/)
 
 ### Contact Me
 
-I love meeting new people! Reach me via email (albertlai631 [at] gmail [dot] com), [LinkedIn](https://www.linkedin.com/in/albertlai631/), or [Instagram](https://www.instagram.com/albert.laiz/). 
+I love meeting new people! Reach me via email (albertlai631 [at] gmail [dot] com) or [LinkedIn](https://www.linkedin.com/in/albertlai631/).
 
 
 <!--
