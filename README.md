@@ -9,7 +9,7 @@ I'm an CS undergrad at UWaterloo! My goal is to create for impact — from a [mo
 
 ### Contact Me
 
-I love meeting new people! Reach me via email (albert.lai [at] uwaterloo [dot] ca) or [LinkedIn](https://www.linkedin.com/in/albertlai631/).
+I love meeting new people! Reach me via email (albert [dot] lai [at] uwaterloo [dot] ca) or [LinkedIn](https://www.linkedin.com/in/albertlai631/).
 
 
 <!--
