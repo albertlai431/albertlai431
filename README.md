@@ -1,11 +1,11 @@
 ## Hi there 👋
 
-I'm an CS undergrad at UWaterloo! My goal is to create for impact — from a [mobile app](https://www.trudeausac.com/app/) I built for my high school to a [chatbot](https://omdena.com/projects/ptsd/) that helps PTSD victims around the world find treatment for their condition. I'm experienced in C++, Python (Pytorch/Tensorflow) & Java, and I'm currently learning React & Gatsby! On the side, I enjoying running 🏃‍♂️, playing ultimate, reading, and sitting around contemplating life 🤔
+I'm an CS undergrad at UWaterloo! My goal is to create for impact — from a [mobile app](https://www.trudeausac.com/app/) I built for my high school to a [chatbot](https://omdena.com/projects/ptsd/) that helps PTSD victims around the world find treatment for their condition. My background is in data but I've been dabbling in fullstack over the past year! On the side, I enjoying running 🏃‍♂️, playing ultimate, reading, and sitting around contemplating life 🤔
 
-<!--
 ### What I'm Currently Working On
-- Building a portal for [Sistering](https://sistering.org/) as a part of [UW Blueprint](https://uwblueprint.org/)
--->
+- Interning at Shopify as a backend developer
+- Building [Canada's largest hackathon](https://hackthenorth.com/)
+- Learning Ruby on Rails
 
 ### Contact Me
 
