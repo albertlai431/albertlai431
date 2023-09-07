@@ -1,10 +1,10 @@
 ## Hi there 👋
 
-I'm an CS undergrad at UWaterloo! My goal is to create for impact — from a [mobile app](https://www.trudeausac.com/app/) I built for my high school to a [chatbot](https://omdena.com/projects/ptsd/) that helps PTSD victims around the world find treatment for their condition. My background is in data but I've been dabbling in fullstack over the past year, working at Shopify, [UW Blueprint](https://uwblueprint.org/) and [Hack the North](https://hackthenorth.com/)! On the side, I enjoy running 🏃‍♂️, playing piano, reading, and having conversations with cool people (like yourself 😉).
+I'm an CS undergrad at UWaterloo! I'm a fullstack dev working at Caldera and previously working at Shopify and Faire. I enjoy running 🏃‍♂️, playing piano, reading, and having conversations with cool people (like yourself 😉).
 
 ### What I'm Currently Working On
-- Interning at Faire as a backend developer
-- Hardware hacking
+- Interning at Caldera
+- Exploring SF!
 - Brainstorming startup ideas
 
 ### Contact Me
